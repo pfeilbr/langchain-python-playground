@@ -27,3 +27,4 @@ jupyter lab
 ## resources
 
 - [langchain-python](https://python.langchain.com/)
+- [LangChain AI Handbook](https://www.pinecone.io/learn/langchain/) - great resource
